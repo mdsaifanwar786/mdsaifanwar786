@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, my name is Md. Saif Anwar<br>💻 Web Developer with 6+ months of industry experience<br>🏢 Currently working at Saumta Service Pvt. Ltd.<br>🌐 Skilled in HTML, CSS, JavaScript, React, MySQL<br>⚙️ Passionate about building responsive & user-friendly web apps<br>📊 Interested in real-world projects & problem-solving<br>🚀 Always learning new technologies & best practices<br>🤝 Open to internships, freelance & full-time opportunities
+👋 Hi, my name is Md. Saif Anwar<br>💻 Web Developer with 9+ months of industry experience<br>🏢 Currently working at Saumta Service Pvt. Ltd.<br>🌐 Skilled in HTML, CSS, JavaScript, React, MySQL<br>⚙️ Passionate about building responsive & user-friendly web apps<br>📊 Interested in real-world projects & problem-solving<br>🚀 Always learning new technologies & best practices<br>🤝 Open to internships, freelance & full-time opportunities
 
 
 ## 🌐 Socials:
